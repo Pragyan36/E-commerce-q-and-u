@@ -1,0 +1,21 @@
+Task
+Slider - Remove Explore Button- Done
+Shop By Department Page- Remove Pickup Button-Done
+Product Detail Page - Image Slider -Has Incorrect Index Issue- Done
+Shop By Department Page- Implement Filter and Sort -- Done
+Shop By Department Page- Index Error and Slow updating Sub category Issue -Done
+Shipping View - Index Error --Done
+
+Featured View All Page- Find Issue not working sometimes
+Incorrect Count  in Stock in Detail Page.
+Review Page- Done - Add No reviews if review is empty
+Dynamic Attributes in Detail Page- Implement
+Search Page- Done- Show No products found if No products found
+Search History - History not saving perfectly
+My Orders Page - --> Cancel Order - Not Done
+
+10-17-2022
+Allow to update My Detail without updating profile pic too
+Add Validation in My Detail Editing Page- Do not allow empty Value in name, email ...
+My Details  not updating just after login
+Hide Logout button if not logged in

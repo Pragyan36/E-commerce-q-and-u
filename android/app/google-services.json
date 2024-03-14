@@ -1,0 +1,831 @@
+{
+  "project_info": {
+    "project_number": "661253628293",
+    "firebase_url": "https://today-s-technology.firebaseio.com",
+    "project_id": "today-s-technology",
+    "storage_bucket": "today-s-technology.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661253628293:android:bec556ea659b560a9124ec",
+        "android_client_info": {
+          "package_name": "com.nectardigit.agrinepalmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661253628293-efpc8kp3aql7avchpavc57qs9fie0dm0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nectardigit.agrinepalmart",
+            "certificate_hash": "15ef6a34ce760168cabfece4a11d07bd4243d1c8"
+          }
+        },
+        {
+          "client_id": "661253628293-snrpsphu1jphesuo89bss82an31bv8ni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_yQ5ie6Ehn9D0BQwG5WdBmhYuJQVqjgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661253628293-snrpsphu1jphesuo89bss82an31bv8ni.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "661253628293-a9pm7p9j3i4cq4em8prtq9ae5nm8j0mr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nectardigit.automation"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661253628293:android:b283afc0a2cfece99124ec",
+        "android_client_info": {
+          "package_name": "com.nectardigit.automation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661253628293-snrpsphu1jphesuo89bss82an31bv8ni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_yQ5ie6Ehn9D0BQwG5WdBmhYuJQVqjgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661253628293-snrpsphu1jphesuo89bss82an31bv8ni.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "661253628293-a9pm7p9j3i4cq4em8prtq9ae5nm8j0mr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nectardigit.automation"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661253628293:android:a6e2ea64079bebb69124ec",
+        "android_client_info": {
+          "package_name": "com.nectardigit.celer_mart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661253628293-gel493rk28mjgsij6d34b9hnpfp9f0q2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nectardigit.celer_mart",
+            "certificate_hash": "3119a6f5c4d856a10ca65eb181ba20045d6d39df"
+          }
+        },
+        {
+          "client_id": "661253628293-r8trp32qr4qnj0uf472tv843mgu79qs1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nectardigit.celer_mart",
+            "certificate_hash": "16936d68ea54a13a80419bba4eff5cd14d7bda7d"
+          }
+        },
+        {
+          "client_id": "661253628293-snrpsphu1jphesuo89bss82an31bv8ni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_yQ5ie6Ehn9D0BQwG5WdBmhYuJQVqjgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661253628293-snrpsphu1jphesuo89bss82an31bv8ni.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "661253628293-a9pm7p9j3i4cq4em8prtq9ae5nm8j0mr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nectardigit.automation"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661253628293:android:b4a92c6601a290049124ec",
+        "android_client_info": {
+          "package_name": "com.nectardigit.eshopping"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661253628293-dj5fsphld1tkdk3ouvlf952l52ervei1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nectardigit.eshopping",
+            "certificate_hash": "c8cca928b0480ed3c8e89a96eff0b718a6e0b740"
+          }
+        },
+        {
+          "client_id": "661253628293-u8oee68npfs2844pbl6crvk4f9scefl2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nectardigit.eshopping",
+            "certificate_hash": "2e9b71b8230bc934e5e701eb89cdd1cb75c5c688"
+          }
+        },
+        {
+          "client_id": "661253628293-snrpsphu1jphesuo89bss82an31bv8ni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_yQ5ie6Ehn9D0BQwG5WdBmhYuJQVqjgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661253628293-snrpsphu1jphesuo89bss82an31bv8ni.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "661253628293-a9pm7p9j3i4cq4em8prtq9ae5nm8j0mr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nectardigit.automation"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661253628293:android:e68a1ab925d44a7a9124ec",
+        "android_client_info": {
+          "package_name": "com.nectardigit.gandakimun"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661253628293-snrpsphu1jphesuo89bss82an31bv8ni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_yQ5ie6Ehn9D0BQwG5WdBmhYuJQVqjgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661253628293-snrpsphu1jphesuo89bss82an31bv8ni.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "661253628293-a9pm7p9j3i4cq4em8prtq9ae5nm8j0mr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nectardigit.automation"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661253628293:android:9d61fd00692412919124ec",
+        "android_client_info": {
+          "package_name": "com.nectardigit.jhigu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661253628293-23h8mbhm9u3o29apsd3c31u74lrfqpsi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nectardigit.jhigu",
+            "certificate_hash": "0d38173b53c861cba8fe9110d34ddc806bb946e9"
+          }
+        },
+        {
+          "client_id": "661253628293-90tlivo2jhoko4ih3sj6i1qqngud9lsp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nectardigit.jhigu",
+            "certificate_hash": "0efeeb7e45640c947f85132902c791d09da58bd1"
+          }
+        },
+        {
+          "client_id": "661253628293-j6vutm1ia917qmgi0b523eitclm4jjn6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nectardigit.jhigu",
+            "certificate_hash": "433c11be8f1eb9939714aeb863f3898b9d92790c"
+          }
+        },
+        {
+          "client_id": "661253628293-k9fc9v4mmldb05vjclr3frpb8acuua3h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nectardigit.jhigu",
+            "certificate_hash": "703958370505846a29694f55489999ca2756b34c"
+          }
+        },
+        {
+          "client_id": "661253628293-nnoilnfpigbmdfmouivl5dp28692325l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nectardigit.jhigu",
+            "certificate_hash": "be19d1ed0753c65e0e529d43e280ffb6d457f3a4"
+          }
+        },
+        {
+          "client_id": "661253628293-snrpsphu1jphesuo89bss82an31bv8ni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_yQ5ie6Ehn9D0BQwG5WdBmhYuJQVqjgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661253628293-snrpsphu1jphesuo89bss82an31bv8ni.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "661253628293-a9pm7p9j3i4cq4em8prtq9ae5nm8j0mr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nectardigit.automation"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661253628293:android:be94934ba4a40f009124ec",
+        "android_client_info": {
+          "package_name": "com.nectardigit.kalafurniture"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661253628293-1qgi0qib5dfvvpueapgjokbj75b33q6e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nectardigit.kalafurniture",
+            "certificate_hash": "16936d68ea54a13a80419bba4eff5cd14d7bda7d"
+          }
+        },
+        {
+          "client_id": "661253628293-34m2so6d2fs56qkrcccoo65m9v2fvv5v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nectardigit.kalafurniture",
+            "certificate_hash": "f17a5f66daffe896ec557e46d0aaa445be9bc0e3"
+          }
+        },
+        {
+          "client_id": "661253628293-ct0q25r3folgj27l46e6n176s41t5423.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nectardigit.kalafurniture",
+            "certificate_hash": "080e6454b77f3a01f8c3766783fd7f19eb0bd366"
+          }
+        },
+        {
+          "client_id": "661253628293-e77t7fqd7hksn8k592qd6560ikas4od1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nectardigit.kalafurniture",
+            "certificate_hash": "3119a6f5c4d856a10ca65eb181ba20045d6d39df"
+          }
+        },
+        {
+          "client_id": "661253628293-tfqp3vhj7nre2tlktih74g9nmruehrnv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nectardigit.kalafurniture",
+            "certificate_hash": "19c3abf6ee6dde49e09aaacb42bf1f91f5e4726a"
+          }
+        },
+        {
+          "client_id": "661253628293-snrpsphu1jphesuo89bss82an31bv8ni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_yQ5ie6Ehn9D0BQwG5WdBmhYuJQVqjgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661253628293-snrpsphu1jphesuo89bss82an31bv8ni.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "661253628293-a9pm7p9j3i4cq4em8prtq9ae5nm8j0mr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nectardigit.automation"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661253628293:android:6464f0f40093a5cd9124ec",
+        "android_client_info": {
+          "package_name": "com.nectardigit.kantipur_cinemas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661253628293-snrpsphu1jphesuo89bss82an31bv8ni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_yQ5ie6Ehn9D0BQwG5WdBmhYuJQVqjgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661253628293-snrpsphu1jphesuo89bss82an31bv8ni.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "661253628293-a9pm7p9j3i4cq4em8prtq9ae5nm8j0mr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nectardigit.automation"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661253628293:android:a1a5b520c8458ee69124ec",
+        "android_client_info": {
+          "package_name": "com.nectardigit.khadyabank"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661253628293-8gjmuc6b8lopa3fnl9it89j51bposbf9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nectardigit.khadyabank",
+            "certificate_hash": "9e5c247791d0d43d320047cb59eae9481198d2e9"
+          }
+        },
+        {
+          "client_id": "661253628293-snrpsphu1jphesuo89bss82an31bv8ni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_yQ5ie6Ehn9D0BQwG5WdBmhYuJQVqjgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661253628293-snrpsphu1jphesuo89bss82an31bv8ni.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "661253628293-a9pm7p9j3i4cq4em8prtq9ae5nm8j0mr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nectardigit.automation"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661253628293:android:f23fc6e2c2f4fec69124ec",
+        "android_client_info": {
+          "package_name": "com.nectardigit.linkedhill"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661253628293-5k8c1ih64fa2m2lad9n6ljljlvae9g9n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nectardigit.linkedhill",
+            "certificate_hash": "eaffd49100ad75f7dcfaa11ea378df4cf0512805"
+          }
+        },
+        {
+          "client_id": "661253628293-k8j8ffqkleqnintqp3mug7sfvk5pa6a1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nectardigit.linkedhill",
+            "certificate_hash": "703958370505846a29694f55489999ca2756b34c"
+          }
+        },
+        {
+          "client_id": "661253628293-snrpsphu1jphesuo89bss82an31bv8ni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_yQ5ie6Ehn9D0BQwG5WdBmhYuJQVqjgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661253628293-snrpsphu1jphesuo89bss82an31bv8ni.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "661253628293-a9pm7p9j3i4cq4em8prtq9ae5nm8j0mr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nectardigit.automation"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661253628293:android:fcc5e30dbb797fff9124ec",
+        "android_client_info": {
+          "package_name": "com.nectardigit.meroworld"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661253628293-d5fqfo383kcdc8fu3l5f9lro7dl65lo2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nectardigit.meroworld",
+            "certificate_hash": "4f067b1186462862c48eec84277e25fb45f9b91b"
+          }
+        },
+        {
+          "client_id": "661253628293-hpkscoogh3hdljbrp9qf9ta0kmodbddu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nectardigit.meroworld",
+            "certificate_hash": "0d163b0c6e7ad3d6917aff6f5a2951091dec45bc"
+          }
+        },
+        {
+          "client_id": "661253628293-snrpsphu1jphesuo89bss82an31bv8ni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_yQ5ie6Ehn9D0BQwG5WdBmhYuJQVqjgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661253628293-snrpsphu1jphesuo89bss82an31bv8ni.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "661253628293-a9pm7p9j3i4cq4em8prtq9ae5nm8j0mr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nectardigit.automation"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661253628293:android:393cf4c264a73bcd9124ec",
+        "android_client_info": {
+          "package_name": "com.nectardigit.number_1_travel"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661253628293-0k75siboj21d15q8712at2heeao1pr64.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nectardigit.number_1_travel",
+            "certificate_hash": "15ef6a34ce760168cabfece4a11d07bd4243d1c8"
+          }
+        },
+        {
+          "client_id": "661253628293-vl1029ri2k13eeuj04a13n4jd81qe1ck.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nectardigit.number_1_travel",
+            "certificate_hash": "19c3abf6ee6dde49e09aaacb42bf1f91f5e4726a"
+          }
+        },
+        {
+          "client_id": "661253628293-snrpsphu1jphesuo89bss82an31bv8ni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_yQ5ie6Ehn9D0BQwG5WdBmhYuJQVqjgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661253628293-snrpsphu1jphesuo89bss82an31bv8ni.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "661253628293-a9pm7p9j3i4cq4em8prtq9ae5nm8j0mr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nectardigit.automation"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661253628293:android:c352c2795646d2e89124ec",
+        "android_client_info": {
+          "package_name": "com.nectardigit.order"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661253628293-2a7h5pab5bce30ikf1ltvablmif7fqt3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nectardigit.order",
+            "certificate_hash": "4f067b1186462862c48eec84277e25fb45f9b91b"
+          }
+        },
+        {
+          "client_id": "661253628293-un42587aftdk30iiceto3bsvrff3b2fm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nectardigit.order",
+            "certificate_hash": "bd79d25611fb345f188680e2eaaf2a31708a90dd"
+          }
+        },
+        {
+          "client_id": "661253628293-snrpsphu1jphesuo89bss82an31bv8ni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_yQ5ie6Ehn9D0BQwG5WdBmhYuJQVqjgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661253628293-snrpsphu1jphesuo89bss82an31bv8ni.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "661253628293-a9pm7p9j3i4cq4em8prtq9ae5nm8j0mr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nectardigit.automation"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661253628293:android:e43535653116ee189124ec",
+        "android_client_info": {
+          "package_name": "com.nectardigit.sanatansewa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661253628293-snrpsphu1jphesuo89bss82an31bv8ni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_yQ5ie6Ehn9D0BQwG5WdBmhYuJQVqjgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661253628293-snrpsphu1jphesuo89bss82an31bv8ni.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "661253628293-a9pm7p9j3i4cq4em8prtq9ae5nm8j0mr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nectardigit.automation"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661253628293:android:a8aff75cb8c3f14a9124ec",
+        "android_client_info": {
+          "package_name": "com.nectardigit.usoft"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661253628293-hdd2r2u0l62512ksqj0i1k27chqh6tmn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nectardigit.usoft",
+            "certificate_hash": "be19d1ed0753c65e0e529d43e280ffb6d457f3a4"
+          }
+        },
+        {
+          "client_id": "661253628293-vsk0a5h5lucvgn3ev21hat0n5b4e0elm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nectardigit.usoft",
+            "certificate_hash": "0efeeb7e45640c947f85132902c791d09da58bd1"
+          }
+        },
+        {
+          "client_id": "661253628293-snrpsphu1jphesuo89bss82an31bv8ni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_yQ5ie6Ehn9D0BQwG5WdBmhYuJQVqjgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661253628293-snrpsphu1jphesuo89bss82an31bv8ni.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "661253628293-a9pm7p9j3i4cq4em8prtq9ae5nm8j0mr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nectardigit.automation"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661253628293:android:08fef13a54b1be939124ec",
+        "android_client_info": {
+          "package_name": "com.nectardigit.vms"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661253628293-snrpsphu1jphesuo89bss82an31bv8ni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_yQ5ie6Ehn9D0BQwG5WdBmhYuJQVqjgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661253628293-snrpsphu1jphesuo89bss82an31bv8ni.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "661253628293-a9pm7p9j3i4cq4em8prtq9ae5nm8j0mr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nectardigit.automation"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661253628293:android:d74c876059d300379124ec",
+        "android_client_info": {
+          "package_name": "com.nectardigit.whpedia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661253628293-snrpsphu1jphesuo89bss82an31bv8ni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_yQ5ie6Ehn9D0BQwG5WdBmhYuJQVqjgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661253628293-snrpsphu1jphesuo89bss82an31bv8ni.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "661253628293-a9pm7p9j3i4cq4em8prtq9ae5nm8j0mr.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nectardigit.automation"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

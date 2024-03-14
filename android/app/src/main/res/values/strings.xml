@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Q &amp; U Hongkong Furniture</string>
+
+    <!-- Replace "000000000000" with your Facebook App ID here. -->
+
+
+    <!--
+      Replace "000000000000" with your Facebook App ID here.
+      **NOTE**: The scheme needs to start with `fb` and then your ID.
+    -->
+
+    <string name="facebook_app_id">1284494302244285</string>
+    <string name="fb_login_protocol_scheme">fb1284494302244285</string>
+    <string name="facebook_client_token">7032053b33fd1db90bba13039428146b</string>
+    <string name="default_notification_channel_id">com.nectardigit.kalafurniture</string>
+</resources>

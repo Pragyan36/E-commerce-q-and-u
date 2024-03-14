@@ -1,0 +1,63 @@
+Home Page
+On First Login in marksneedrebuild error
+Done
+
+Search Page:
+Search gets cleared on Response
+Remove High Low on Brand Selected
+Done
+
+Contact page
+Message send not working
+Done
+
+Product Detail Page
+Ask a question only if logged in
+Done
+
+Category Page
+Remove Double Arrow from category Title
+Done
+
+Category Products Page
+Show Loading when filter applied(Low to High/High to Low)
+Done
+
+Numbers only in Register Zip-Done
+Make zip required in Add Shipping Address BottomSheet-Done
+By Default One payment Item radio must be selected-Done
+Non Dismissible dialog after payment-Done
+
+Wishlist Not Updating before going to wishlist tab--Done
+Data Not Showing after login in JustForYouTabs (marksNeedsRebuild)-Done
+
+Clear Notification on Login and Logout- Done
+Change After Payment Loading text to Verifying Payment-Done
+Show Status bar on Payment Finished Page -Done
+Implement Internet Connection Check in important places- Done
+=========================Remaining==========================
+About Us Url
+Terms and Condition Url
+Privacy Policy URL
+FAQ API
+Status bar hiding after payment success page
+
+Product Detail Base variant selected
+
+
+On Coupon Applied message is empty (Snackbar)
+
+
+
+
+
+=====================Self Notes ===============================
+Get All Products (API-products) is used in search page with pagination
+There's no pagination in Just For You Products
+
+Spacer is used to Take all space between widgets and push them to the ends
+Flexible is used to Wrap Height Wrap Width of the widget
+
+
+
+

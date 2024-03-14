@@ -1,0 +1,10 @@
+1. Featured Categories View All Page- Homepage - Duplicate CategoryDetail Page
+2.          Last Fav Item not updating locally--Done
+3.          Remove login option if logged in--Done
+4.           Do not allow to go to FAV pages if not logged in or show not logged in message--Done
+5.          Hide Profile Icon if not logged in from More Page--Done
+6.          Hide Notification Settings from More Page--Done
+7. Profile Icon and Name not updating after Login from More Page
+8.          Login/Register card not hiding after login from More page--Done
+9.          Shop by Department Not loading at first attempt, loads after hot reload--done
+10. Range error at first in Shop by DepartmentView  Page
